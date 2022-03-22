@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894017808564",
+    "firebase_url": "https://formfirebase-e52c8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "formfirebase-e52c8",
+    "storage_bucket": "formfirebase-e52c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894017808564:android:993624c0c25cce27f40fe1",
+        "android_client_info": {
+          "package_name": "com.example.form_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894017808564-g434jcaauqppqh4ta9bk7t44m8cn6lp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPifRtqVlRdw0OXanMhYVUVRAxObpkbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894017808564-g434jcaauqppqh4ta9bk7t44m8cn6lp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
